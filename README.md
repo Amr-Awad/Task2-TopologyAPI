@@ -1,6 +1,6 @@
-# Task3-TopologyAPI API documentation
+# Task2-TopologyAPI API documentation
 
-This repository contains the documentation for [Task3-TopologyAPI] API.
+This repository contains the documentation for [Task2-TopologyAPI] API.
 
 #### Contents
 
