@@ -258,7 +258,7 @@ Example Response:
 ]
 ```
 
-### 2.5. queryDevicesWithNetlistNode
+### 2.6. queryDevicesWithNetlistNode
 
 #### Gets the Components in specific Topology from memory which contains a specific node.
 returns JSON body of the Components.
